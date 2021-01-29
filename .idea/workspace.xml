@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="affd792c-75f4-4053-891b-f782214de2b1" name="Default Changelist" comment="" />
+    <list default="true" id="affd792c-75f4-4053-891b-f782214de2b1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/commandlinetools/Laravel_1_22_21__8_55_AM.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/commandlinetools/schemas/frameworkDescriptionVersion1.1.4.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sshConfigs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/laracast_tuto.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/laracast_tuto.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Unit/ExampleTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Unit/ExampleTest.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,9 +26,7 @@
   </component>
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
-    <execution>
-      <executable />
-    </execution>
+    <execution />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -49,6 +64,9 @@
       </path>
     </expand>
     <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -147,20 +165,35 @@
       <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
       <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
       <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/vendor/swagger-api/swagger-ui" />
+      <path value="$PROJECT_DIR$/vendor/zircote/swagger-php" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/darkaonline/l5-swagger" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
     </include_path>
   </component>
   <component name="ProjectId" id="1a1wiluJww3b7OT0IvZRRsNaw87" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../webshop-laravel" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -173,6 +206,7 @@
       <method v="2" />
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -190,44 +224,21 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="299" y="242" width="800" height="678" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585947695035">
-      <screen x="0" y="28" width="1920" height="1052" />
+    <state x="362" y="594" width="454" height="576" key="#Web_Browsers" timestamp="1611915917420">
+      <screen x="0" y="0" width="1200" height="1920" />
     </state>
-    <state x="299" y="242" width="800" height="678" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1585947695035" />
-    <state x="636" y="286" width="424" height="485" key="FileChooserDialogImpl" timestamp="1585936923832">
-      <screen x="0" y="28" width="1920" height="1052" />
+    <state x="362" y="594" width="454" height="576" key="#Web_Browsers/1200.0.1680.1050/0.0.1200.1920@0.0.1200.1920" timestamp="1611915917420" />
+    <state x="373" y="618" width="428" height="474" key="FileChooserDialogImpl" timestamp="1611915914230">
+      <screen x="0" y="0" width="1200" height="1920" />
     </state>
-    <state x="636" y="286" width="424" height="485" key="FileChooserDialogImpl/0.28.1920.1052@0.28.1920.1052" timestamp="1585936923832" />
-    <state x="547" y="324" width="583" height="406" key="NewPhpClassDialog" timestamp="1585935570345">
-      <screen x="0" y="28" width="1920" height="1052" />
+    <state x="373" y="618" width="428" height="474" key="FileChooserDialogImpl/1200.0.1680.1050/0.0.1200.1920@0.0.1200.1920" timestamp="1611915914230" />
+    <state x="2297" y="654" width="428" height="474" key="FileChooserDialogImpl/1920.0.1200.1920/0.0.1920.1200@1920.0.1200.1920" timestamp="1610455656474" />
+    <state x="263" y="444" width="672" height="678" key="search.everywhere.popup" timestamp="1611831136451">
+      <screen x="0" y="0" width="1200" height="1920" />
     </state>
-    <state x="547" y="324" width="583" height="406" key="NewPhpClassDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1585935570345" />
-    <state x="260" y="146" width="1022" height="731" key="SettingsEditor" timestamp="1585919277529">
-      <screen x="0" y="28" width="1920" height="1052" />
-    </state>
-    <state x="260" y="146" width="1022" height="731" key="SettingsEditor/0.28.1920.1052@0.28.1920.1052" timestamp="1585919277529" />
-    <state x="660" y="482" width="420" height="283" key="com.intellij.database.actions.DdlActions$CommentOnObjectAction$1" timestamp="1585947867332">
-      <screen x="0" y="28" width="1920" height="1052" />
-    </state>
-    <state x="660" y="482" width="420" height="283" key="com.intellij.database.actions.DdlActions$CommentOnObjectAction$1/0.28.1920.1052@0.28.1920.1052" timestamp="1585947867332" />
-    <state x="808" y="410" width="362" height="260" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1586008978826">
-      <screen x="0" y="28" width="1920" height="1052" />
-    </state>
-    <state x="808" y="410" width="362" height="260" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.28.1920.1052@0.28.1920.1052" timestamp="1586008978826" />
-    <state x="622" y="235" width="552" height="686" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1585947874434">
-      <screen x="0" y="28" width="1920" height="1052" />
-    </state>
-    <state x="622" y="235" width="552" height="686" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1585947874434" />
-    <state x="426" y="339" key="com.intellij.ide.util.TipDialog" timestamp="1585922053843">
-      <screen x="0" y="28" width="1920" height="1052" />
-    </state>
-    <state x="426" y="339" key="com.intellij.ide.util.TipDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1585922053843" />
-    <state x="434" y="248" width="672" height="678" key="search.everywhere.popup" timestamp="1586012783196">
-      <screen x="0" y="28" width="1920" height="1052" />
-    </state>
-    <state x="434" y="248" width="672" height="678" key="search.everywhere.popup/0.28.1920.1052@0.28.1920.1052" timestamp="1586012783196" />
+    <state x="263" y="444" width="672" height="678" key="search.everywhere.popup/1200.0.1680.1050/0.0.1200.1920@0.0.1200.1920" timestamp="1611831136451" />
   </component>
 </project>

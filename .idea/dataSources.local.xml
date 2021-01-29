@@ -16,13 +16,7 @@
       </schema-mapping>
       <ssh-properties>
         <enabled>true</enabled>
-        <proxy-host>localhost</proxy-host>
-        <proxy-port>2222</proxy-port>
-        <secret-storage>session</secret-storage>
-        <user>vagrant</user>
-        <use-password>false</use-password>
-        <auth-type>KEY_PAIR</auth-type>
-        <private-key-path>$USER_HOME$/Homestead/.vagrant/machines/homestead/virtualbox/private_key</private-key-path>
+        <ssh-config-id>db0f0439-d5a1-438d-8ad8-09e564cfc18c</ssh-config-id>
       </ssh-properties>
     </data-source>
   </component>
